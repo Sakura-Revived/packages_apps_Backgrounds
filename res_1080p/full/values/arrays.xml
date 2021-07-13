@@ -13,15 +13,14 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <array name="wallpapers" translatable="false">
-        <item>abstract_ink</item>
-        <item>abstract_orderofchaos</item>
-        <item>abstract_spacestory</item>
-        <item>nature_ice</item>
-        <item>nature_nebula</item>
-        <item>nature_night</item>
-        <item>nature_sea</item>
-        <item>space_riseup</item>
-        <item>urban_dayroad</item>
-        <item>urban_nightroad</item>
+        <item>anime_amoled</item>
+        <item>anime_amoled_2</item>
+        <item>autumn_sailer</item>
+        <item>oneplus_contest</item>
+        <item>toko_taira</item>
+        <item>abstract_sunset</item>
+        <item>beeple_astraunaut</item>
+        <item>chewlon_astronaut</item>
+        <item>noman_sky</item>         
     </array>
 </resources>
